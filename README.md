@@ -3,7 +3,7 @@ Description
 This is an e-commerce project built using Node.js, Express.js, MongoDB, React, and Redux. It provides functionalities for users to browse products, add them to cart, checkout, and manage their profiles.
 
 ## Technologies Used
-Backend: Node.js, Express.js, MongoDB, JWT for authentication, Stripe for payments, Cloudinary for image uploads, Nodemailer for email sending.
+Backend: Node.js, Express.js, MongoDB, JWT for authentication, Stripe for payments, Cloudinary for image uploads, Nodemailer for email sending.\
 Frontend: React, Redux for state management, Axios for HTTP requests.
 
 ## Installation
@@ -12,9 +12,9 @@ git clone https://github.com/yourusername/e-commerce.git
 
 ### Install NPM packages for backend and frontend
 
-npm install
-cd frontend
-npm install
+npm install\
+cd frontend\
+npm install\
 cd ..
 
 ### Set up environment variables
